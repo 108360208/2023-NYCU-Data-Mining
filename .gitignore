@@ -1,1 +1,5 @@
 *.data
+original_data/
+pred_result/
+preprocessed_data/
+*.json
